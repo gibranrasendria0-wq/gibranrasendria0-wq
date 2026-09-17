@@ -8,11 +8,8 @@ Building modern web applications, interactive experiences,
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=00ff88\&style=flat-square)
 
-</div>
 
----
 
 ## ABOUT ME
 
@@ -20,7 +17,7 @@ Saya seorang pengembang yang bersemangat membangun aplikasi web dan proyek inter
 
 Saat ini sedang mempelajari dan mengeksplorasi teknologi modern untuk meningkatkan keterampilan pengembangan saya serta menciptakan pengalaman digital yang bermakna.
 
-```txt
+ 
 > Status: Online
 > Focus: Web Development
 > Learning: JavaScript, React, Node.js, NestJS
@@ -135,80 +132,7 @@ A collection of experiments and projects created while learning programming and 
 
 ---
 
-# 🎮 ARCADE ROOM
 
-<div align="center">
-
-### WELCOME TO MY DIGITAL ARCADE
-
-```txt
-╔══════════════════════════════════════╗
-║                                      ║
-║          SELECT YOUR GAME            ║
-║                                      ║
-║       INSERT COIN TO CONTINUE        ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-## 🐍 SNAKE
-
-Classic arcade snake game.
-
-Collect food. Beat your high score.
-
-<br>
-
-[![PLAY GAME](https://img.shields.io/badge/▶_PLAY_GAME-00ff88?style=for-the-badge\&logoColor=black)](https://YOUR_USERNAME.github.io/YOUR_ARCADE_REPOSITORY/games/snake/)
-
-</td>
-
-<td width="50%" align="center">
-
-## 🚀 SPACE SHOOTER
-
-Defend the galaxy.
-
-Destroy enemies and survive.
-
-<br>
-
-[![PLAY GAME](https://img.shields.io/badge/▶_PLAY_GAME-00ffff?style=for-the-badge\&logoColor=black)](https://YOUR_USERNAME.github.io/YOUR_ARCADE_REPOSITORY/games/space-shooter/)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-## 🐦 FLAPPY
-
-Avoid obstacles.
-
-How far can you go?
-
-<br>
-
-[![PLAY GAME](https://img.shields.io/badge/▶_PLAY_GAME-ff00ff?style=for-the-badge\&logoColor=black)](https://YOUR_USERNAME.github.io/YOUR_ARCADE_REPOSITORY/games/flappy/)
-
-</td>
-
-<td width="50%" align="center">
-
-## 🧠 MEMORY CARD
-
-Test your memory.
-
-Find matching cards and beat the score.
 
 <br>
 
@@ -229,9 +153,7 @@ Explore all games from one dashboard.
 
 <br>
 
-[![ENTER ARCADE](https://img.shields.io/badge/🎮_ENTER_FULL_ARCADE-111111?style=for-the-badge\&logo=gamepad\&logoColor=00ff88)](https://YOUR_USERNAME.github.io/YOUR_ARCADE_REPOSITORY/games/)
 
-</div>
 
 ---
 
