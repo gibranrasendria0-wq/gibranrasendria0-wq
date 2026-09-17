@@ -1,198 +1,31 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Gibran Rasendria</h1>
+<h3 align="center">A passionate junior developer from indonesia</h3>
 
-HAI GW GIBRAN RASENDRIA
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gibranrasendria0-wq&label=Profile%20views&color=0e75b6&style=flat" alt="gibranrasendria0-wq" /> </p>
 
-### JUNIOR DEVELOPER
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gibranrasendria0-wq" alt="gibranrasendria0-wq" /></a> </p>
 
-Building modern web applications, interactive experiences, 
+- 🔭 I’m currently working on [undangan mabar](https://mobile-legends-five.vercel.app/)
 
-<br>
+- 🌱 I’m currently learning **React, nest.js, expres**
 
+- 👨‍💻 All of my projects are available at [https://portofolio-ku-nine.vercel.app/](https://portofolio-ku-nine.vercel.app/)
 
+- 📫 How to reach me **gibranrasendria0@gmail.com**
 
+- ⚡ Fun fact **My hobby is swimming, and I am proficient in Arabic, but my father enrolled me in a programming school.**
 
-## ABOUT ME
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/gibran rasendria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gibran rasendria" height="30" width="40" /></a>
+<a href="https://instagram.com/baraa_tamm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baraa_tamm" height="30" width="40" /></a>
+</p>
 
-Saya seorang pengembang yang bersemangat membangun aplikasi web dan proyek interaktif.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-Saat ini sedang mempelajari dan mengeksplorasi teknologi modern untuk meningkatkan keterampilan pengembangan saya serta menciptakan pengalaman digital yang bermakna.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gibranrasendria0-wq&show_icons=true&locale=en&layout=compact" alt="gibranrasendria0-wq" /></p>
 
- 
-> Status: Online
-> Focus: Web Development
-> Learning: JavaScript, React, Node.js, NestJS
-> Mission: Build. Learn. Improve.
-```
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gibranrasendria0-wq&show_icons=true&locale=en" alt="gibranrasendria0-wq" /></p>
 
----
-
-## TECH STACK
-
-<div align="center">
-
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-
-<br><br>
-
-### FRAMEWORKS & TOOLS
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,express,git,github" />
-
-<br><br>
-
-### DATABASE & ENVIRONMENT
-
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,prisma,vscode" />
-
-</div>
-
----
-
-## FEATURED PROJECTS
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🚀 Space Shooter
-
-A browser-based space shooter game with interactive gameplay and backend integration.
-
-**Technologies:** JavaScript · Node.js · PostgreSQL
-
-[View Project →](https://github.com/YOUR_USERNAME)
-
-</td>
-
-<td width="50%">
-
-### 💰 Expense Tracker
-
-A modern application designed to manage personal expenses and financial data.
-
-**Technologies:** React · JavaScript · Node.js
-
-[View Project →](https://github.com/YOUR_USERNAME)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🌐 Developer Portfolio
-
-A personal portfolio website showcasing projects, skills, and developer journey.
-
-**Technologies:** HTML · CSS · JavaScript
-
-[View Project →](https://github.com/YOUR_USERNAME)
-
-</td>
-
-<td width="50%">
-
-### 📚 Learning Projects
-
-A collection of experiments and projects created while learning programming and software development.
-
-**Technologies:** JavaScript · React · Node.js
-
-[View Project →](https://github.com/YOUR_USERNAME)
-
-</td>
-
-</tr>
-</table>
-
----
-
-## GITHUB STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=00ff88&icon_color=00ffff&text_color=ffffff" width="48%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=00000000&ring=00ff88&fire=ff00ff&currStreakLabel=00ffff" width="48%">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=00ff88&line=00ffff&point=ff00ff&area=true&hide_border=true">
-
-</div>
-
----
-
-
-
-<br>
-
-[![PLAY GAME](https://img.shields.io/badge/▶_PLAY_GAME-ffff00?style=for-the-badge\&logoColor=black)](https://YOUR_USERNAME.github.io/YOUR_ARCADE_REPOSITORY/games/memory/)
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-## 🎮 ENTER THE FULL ARCADE
-
-Explore all games from one dashboard.
-
-<br>
-
-
-
----
-
-## CURRENT MISSION
-
-```txt
-╔══════════════════════════════════════╗
-║          SYSTEM STATUS               ║
-╠══════════════════════════════════════╣
-║                                      ║
-║  Learning        ████████████░░ 80%  ║
-║  Building        ██████████░░░░ 70%  ║
-║  Exploring       █████████████░ 85%  ║
-║                                      ║
-║  Mission: Keep Moving Forward        ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
-
----
-
-## CONNECT WITH ME
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/YOUR_USERNAME)
-
-</div>
-
----
-
-<div align="center">
-
-### BUILD · PLAY · LEARN · REPEAT
-
-<br>
-
-`Thanks for visiting my profile.`
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gibranrasendria0-wq&" alt="gibranrasendria0-wq" /></p>
