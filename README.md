@@ -1,121 +1,112 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hi, I'm Gibran Rasendria</h1>
+<div align="center">
 
-<h3 align="center">🚀 Junior develover</h3>
+# ⚡ GIBRAN RASENDRIA ⚡
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+learning+Web+Development;JavaScript+%7C+React+%7C+Node.js+%7C+NestJS;Building+something+awesome..." alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;JAVASCRIPT+ENTHUSIAST;BUILDING+THE+FUTURE;WELCOME+TO+MY+DIGITAL+WORLD" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gibranrasendria0-wq&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00f7ff&height=120&section=header" width="100%"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🟢 SYSTEM STATUS
 
-Hello! I'm **Gibran Rasendria**, a passionate developer who enjoys building web applications and learning modern technologies.
+```txt
+[ ONLINE ]
 
-- 🌱 Currently learning JavaScript, React, Node.js, and NestJS
-- 💻 Interested in Full Stack Web Development
-- 🔧 Enjoy building APIs and backend systems
-- 🎯 Always improving my programming skills
-- ⚡ Fun fact: My hobby is swimming, and I am proficient in Arabic, but my father enrolled me in a programming school.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
-</p>
-
-### Frameworks & Libraries
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,express" />
-</p>
-
-### Database & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,git,github,vscode" />
-</p>
+> Developer: Gibran Rasendria
+> Role: Full Stack Developer
+> Status: Learning & Building
+> Location: Indonesia
+> Mission: Turning Ideas Into Reality
+```
 
 ---
 
-## 📊 GitHub Statistics
+## 🧠 ABOUT ME
 
-<p align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=gibranrasendria0-wq&title=Gibran%27s+GitHub+Stats&border_width=1&border_radius=5" alt="GitHub Stats" />
-</p>
+> "Code is not just about solving problems.
+> It's about creating possibilities."
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gibranrasendria0-wq&theme=tokyonight" alt="GitHub Streak" />
-</p>
+* 🚀 Passionate about Web Development
+* 🌱 Currently learning JavaScript, React, Node.js & NestJS
+* 💻 Building real-world applications
+* 🎯 Improving programming skills every day
+* ⚡ Interested in Cyberpunk UI, futuristic interfaces, and modern technology
 
 ---
 
-## 💻 Most Used Languages
+## ⚙️ TECH STACK
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gibranrasendria0-wq&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
 
----
+### LANGUAGES
 
-## 🏆 GitHub Trophies
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gibranrasendria0-wq&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+### FRAMEWORKS & RUNTIME
 
----
+<img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,express" />
 
-## 📌 Featured Projects
+### DATABASE & TOOLS
 
-### 🚀 Space Shooter
+<img src="https://skillicons.dev/icons?i=postgresql,prisma,git,github,vscode" />
 
-Backend game project built using Node.js and PostgreSQL.
-
-- Node.js
-- Express.js
-- PostgreSQL
-- Prisma ORM
-
-### 🌸 Lumea Beauty
-
-Fullstack cosmetics catalog and e-commerce website.
-
-- React
-- Vite
-- Express.js
-- JavaScript
-
-### 📚 Learning Projects
-
-Various projects created while learning programming and web development.
+</div>
 
 ---
 
-## 📈 My Coding Journey
+## 🛠️ CURRENT PROJECTS
 
-```text
-HTML & CSS
-    ↓
-JavaScript
-    ↓
-React
-    ↓
-Node.js
-    ↓
-NestJS
-    ↓
-Full Stack Developer
+```diff
++ Space Shooter Backend
++ Expense Management Application
++ LMS Backend API
++ Personal Portfolio Website
++ React Learning Projects
+```
+
+---
+
+## 📊 GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GibranRasendria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF&text_color=FFFFFF" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GibranRasendria&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF" />
+
+</div>
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/GibranRasendria">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF00FF"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `SYSTEM MESSAGE`
+
+```txt
+"Stay curious.
+Keep coding.
+Build something extraordinary."
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+</div>
